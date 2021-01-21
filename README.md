@@ -1,4 +1,4 @@
 # GIFTS
 
-# Just for experimet 
+# Just for experiment 
 
